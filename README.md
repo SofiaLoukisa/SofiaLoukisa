@@ -1,9 +1,8 @@
 # Hey there, I'm Sofia! 👋🤖
 
-🎓 Final-year Computer Science student<br>
-🤖 Agent-based AI systems using the BDI (Belief–Desire–Intention) methodology<br>
-🧠 LLM-powered reasoning with LangChain & LangGraph in Python<br>
-🧪 Exploring agent behaviors, decision flows and prompt-driven reasoning
+🤖 Agent based AI systems using the BDI (Belief–Desire–Intention) methodology<br>
+🧠 LLM powered reasoning with LangChain & LangGraph in Python<br>
+🧪 Exploring agent behaviors, decision flows and prompt driven reasoning
 
 ## 💼 Background
 - QA Software Tester (1 year - hybrid / remote) — manual testing across web, mobile and kiosk systems and data entry
@@ -28,6 +27,6 @@ with structure, validation and real-world constraints in mind.
 </p>
 
 
-## 📫 Let's Create!
+## 🤝 Open to discussions, collaborations and applied AI projects
 - Email: sofialoukisajob@gmail.com
 
