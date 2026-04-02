@@ -26,6 +26,6 @@
 </p>
 
 
-## 🤝 Open to discussions, collaborations and applied AI projects
+## 🤝 Open to discussions & collaborations
 - Email: sofialoukisajob@gmail.com
 
