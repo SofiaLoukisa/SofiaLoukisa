@@ -2,7 +2,7 @@
 
 ☕ Engineering backend systems with Java & Spring Boot for real world applications<br>
 🧠 LLM powered reasoning with LangChain & LangGraph in Python<br>
-🧪 Exploring agent behaviors, decision flows and prompt driven reasoning
+📱 Developed Android application in Java (native development)
 
 ## 💼 Background
 - QA Software Tester (1 year - hybrid / remote) — manual testing across web, mobile and kiosk systems and data entry while studying
