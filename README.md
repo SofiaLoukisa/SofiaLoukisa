@@ -59,25 +59,3 @@ Manual testing across web, mobile and kiosk systems while completing my degree, 
 **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-
-<br>
-
-## 📌 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [🩺 medassist-langgraph-agentic-ai](https://github.com/SofiaLoukisa/medassist-langgraph-agentic-ai-dissertation) | Agentic AI medical assistant with RAG-based retrieval and drug interaction detection — BSc dissertation | LangGraph, RAG, React, TypeScript, PostgreSQL | (Distinction)
-| [🎬 movie-industry-data-analysis](https://github.com/SofiaLoukisa/movie-industry-data-analysis) | Full data science pipeline on 63,000 films — cleaning, hypothesis testing, and a Random Forest revenue model (Distinction) | Python, pandas, scikit-learn, SciPy |
-| [🍽️ mobile-android-meal-application](https://github.com/SofiaLoukisa/mobile-android-java-meal-application-loukisa-kouridaki) | Native Android app for discovering recipes, viewing ingredients/instructions, and saving favourites | Java, Android |
-| [⚡ ev-charging-station-booking-system](https://github.com/SofiaLoukisa/ev-charging-station-booking-system) | Backend booking system for reserving EV charging stations | Java | (Distinction)
-| [🤖 teacher-buddy-ai-assistant](https://github.com/SofiaLoukisa/teacher-buddy-ai-assistant) | AI assistant concept for supporting teachers | TypeScript | (Distinction)
-| [🐍 snake_survivor_java_game](https://github.com/SofiaLoukisa/snake_survivor_java_game) | A fast-paced twist on classic Snake — dodge obstacles, master the jump mechanic | Java |
-
-<br>
-
-
-## 🤝 Let's Connect
-
-I'm actively open to **AI/ML engineering** and **software engineering** roles, always happy to talk about a project, a role or just data science over coffee.
-
-📫 **sofialoukisajob@gmail.com** · 💼 [LinkedIn](https://linkedin.com/in/sofia-loukisa) · 📍 Athens, Greece
