@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Sofia Loukisa 👋
-### AI-Focused Software Engineer · BSc Computer Science
+### AI-Focused Software Engineer · BSc Computer Science (Distinction)
 
 Building backend systems that work and AI systems that reason. From LangGraph agents to production-style APIs.
 
