@@ -1,7 +1,4 @@
-<div align="center">
-
-# Hi, I'm Sofia Loukisa 👋
-### AI-Focused Software Engineer · BSc Computer Science (Distinction)
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CD9B0,100:8E7CFF&height=220&section=header&text=Hey%20there%2C%20I%27m%20Sofia%21%20%F0%9F%91%8B&fontSize=38&fontColor=fff&fontAlignY=35&desc=AI-Focused%20Software%20Engineer%20%C2%B7%20BSc%20Computer%20Science&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
 
 Building backend systems that work and AI systems that reason. From LangGraph agents to production-style APIs.
 
