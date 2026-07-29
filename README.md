@@ -75,14 +75,6 @@ Manual testing across web, mobile and kiosk systems while completing my degree, 
 
 <br>
 
-## 📈 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SofiaLoukisa&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Sofia's GitHub stats" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SofiaLoukisa&hide_border=true" alt="Sofia's GitHub streak" height="165">
-</div>
-
-<br>
 
 ## 🤝 Let's Connect
 
