@@ -19,7 +19,7 @@ Building backend systems that work and AI systems that reason. From LangGraph ag
 - 🧠 Building **LLM-powered, agentic systems** with LangChain & LangGraph, RAG, retrieval, reasoning and multi-step decision-making
 - ☕ Engineering **backend systems in Java & Spring Boot** for real-world, multi-user applications
 - 📱 Native **Android development in Java**, end-to-end from data model to UI
-- 📊 Comfortable across the full data pipeline — cleaning, statistical testing, and predictive modelling in Python
+- 📊 Comfortable across the full data pipeline: cleaning, statistical testing and predictive modelling in Python
 - 🎓 BSc Computer Science First class with Honours Distinction dissertation on an agentic AI medical assistant (RAG + drug interaction detection)
 
 <br>
